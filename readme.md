@@ -47,12 +47,17 @@ Returns a random developer quote (as an object):
 
 ### CLI
 
+Javascript
 ```bash
 devquote
 ```
 
-Prints a random developer quote in the terminal.
+You can also use the CLI directly if you have a cloned repository.
+```
+./cli
+```
 
+Prints a random developer quote in the terminal.
 
 ### License
 
